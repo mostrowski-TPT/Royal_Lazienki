@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "5acb50d195fd11bc2238fc36",
+    "_type": "article",
+    "_parentId": "5acb50d095fd11bc2238fc35",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_isVisible": true,
+    "_isHidden": false,
+    "_isAvailable": true,
+    "_isOptional": false,
+    "instruction": "",
+    "_classes": "",
+    "body": "",
+    "displayTitle": "",
+    "title": "Course article",
+    "_trickle": {
+      "_stepLocking": {
+        "_isLockedOnRevisit": false,
+        "_isCompletionRequired": true,
+        "_isEnabled": true
+      },
+      "_button": {
+        "_component": "trickle-button",
+        "finalText": "Finish",
+        "startText": "Begin",
+        "text": "Continue",
+        "_className": "",
+        "_autoHide": true,
+        "_isFullWidth": true,
+        "_styleAfterClick": "hidden",
+        "_styleBeforeCompletion": "hidden",
+        "_isEnabled": false
+      },
+      "_scrollTo": "@block +1",
+      "_onChildren": false,
+      "_scrollDuration": 500,
+      "_autoScroll": false,
+      "_isEnabled": false
+    }
+  }
+]

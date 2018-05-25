@@ -1,0 +1,522 @@
+[
+    {
+        "_id": "5acc862376f05b081730cb74",
+        "_layout": "full",
+        "_type": "component",
+        "_parentId": "5acc860876f05b081730cb73",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "body": "",
+        "displayTitle": "",
+        "title": "Map",
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_component": "hotgraphic",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "instruction": "Click on the marking icons to check noteworthy locations",
+        "_graphic": {
+            "src": "course/en/assets/c5556b006924c4bbfe418dfd2f2a666d0131050a.PNG",
+            "alt": "",
+            "attribution": ""
+        },
+        "mobileBody": "",
+        "mobileInstruction": "",
+        "_hidePagination": false,
+        "_canCycleThroughPagination": false,
+        "_useGraphicsAsPins": false,
+        "_items": [
+            {
+                "title": "Chopin monument",
+                "body": "<p>The park is&nbsp;home to the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Chopin_Statue,_Warsaw\" title=\"Chopin Statue, Warsaw\">Chopin Statue</a>, a monument to&nbsp;<a href=\"https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin\" title=\"Frédéric Chopin\">Fr&eacute;d&eacute;ric Chopin</a>. It was designed in 1907 by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Wac%C5%82aw_Szymanowski\" title=\"Wacław Szymanowski\">Wacław Szymanowski</a>&nbsp;for its planned erection on the centenary of Chopin&#39;s birth in 1810 but its execution was delayed by controversy about the design, then by the outbreak of&nbsp;<a href=\"https://en.wikipedia.org/wiki/World_War_I\" title=\"World War I\">World War I</a>. The statue was finally cast and erected in 1926.</p>",
+                "strapline": "Chopin monument",
+                "_graphic": {
+                    "src": "course/en/assets/e1b4080dfbfe9252ade68b50a569f36440341bec.jpg",
+                    "alt": "",
+                    "attribution": "",
+                    "title": "",
+                    "_classes": ""
+                },
+                "_classes": "",
+                "_left": 11,
+                "_top": 41
+      },
+            {
+                "title": "White House",
+                "body": "<p>The Little White House (<em>Biały Domek</em>) is a garden&nbsp;<a href=\"https://en.wikipedia.org/wiki/Villa\" title=\"Villa\">villa</a>&nbsp;built in 1774-76 by&nbsp;<a href=\"https://en.wikipedia.org/wiki/Domenico_Merlini\" title=\"Domenico Merlini\">Domenico Merlini</a>. It housed King&nbsp;<a href=\"https://en.wikipedia.org/wiki/Stanis%C5%82aw_August_Poniatowski\" title=\"Stanisław August Poniatowski\">Stanisław August Poniatowski</a>&#39;s mistress and, for a time,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Louis_XVIII_of_France\" title=\"Louis XVIII of France\">Louis XVIII</a>,who lived here in 1801-05 during his exile from France.Built in the form of a square, it has identical facades, adorned with&nbsp;<a href=\"https://en.wikipedia.org/wiki/Rustication_(architecture)\" title=\"Rustication (architecture)\">rustication</a>, an&nbsp;<a href=\"https://en.wikipedia.org/wiki/Attic_style\" title=\"Attic style\">attic</a>&nbsp;and a small&nbsp;<a href=\"https://en.wikipedia.org/wiki/Pavilion\" title=\"Pavilion\">pavilion</a>&nbsp;at the top. The interiors were decorated by the prominent Polish painters Jan Ścisło and Jan Bogumił Plersch.</p>",
+                "strapline": "White House",
+                "_graphic": {
+                    "src": "course/en/assets/782dd32c2bba371b3ba4bea46471773205021a5c.jpg",
+                    "alt": "",
+                    "attribution": "",
+                    "title": "",
+                    "_classes": ""
+                },
+                "_classes": "",
+                "_left": 38,
+                "_top": 34
+      },
+            {
+                "title": "Palace on the Isle",
+                "body": "<p>From 1674 the property (and the nearby&nbsp;<a href=\"https://en.wikipedia.org/wiki/Ujazd%C3%B3w_Castle\" title=\"Ujazdów Castle\">Ujazd&oacute;w Castle</a>) belonged to Count&nbsp;<a href=\"https://en.wikipedia.org/wiki/Stanis%C5%82aw_Herakliusz_Lubomirski\" title=\"Stanisław Herakliusz Lubomirski\">Stanisław Herakliusz Lubomirski</a>, who built a&nbsp;<a href=\"https://en.wikipedia.org/wiki/Baroque\" title=\"Baroque\">Baroque</a>&nbsp;bath house called&nbsp;<em>&quot;Łazienka&quot;</em>&nbsp;(&quot;Bath&quot;)<sup><a href=\"https://en.wikipedia.org/wiki/%C5%81azienki_Palace#cite_note-2\">[2]</a></sup>&nbsp;The destroyed building, erected on a square plan, was richly decorated with&nbsp;<a href=\"https://en.wikipedia.org/wiki/Stuccos\" title=\"Stuccos\">stuccos</a>, statues, and paintings; some of the original decorations and architectural details survive.</p><p>In 1766 King&nbsp;<a href=\"https://en.wikipedia.org/wiki/Stanis%C5%82aw_II_Augustus\" title=\"Stanisław II Augustus\">Stanisław August Poniatowski</a>&nbsp;purchased the estate and converted the bathing pavilion into a classicist summer residence.</p><p>During&nbsp;<a href=\"https://en.wikipedia.org/wiki/World_War_II\" title=\"World War II\">World War II</a>, the occupying Germans drilled holes in the palace walls in preparation for blowing it up. They never got around to carrying out the planned destruction.</p>",
+                "strapline": "Palace on the Isle",
+                "_graphic": {
+                    "src": "course/en/assets/c48664ededc9bda5cae614994ec1e5fe279d9590.jpg",
+                    "alt": "",
+                    "attribution": "",
+                    "title": "",
+                    "_classes": ""
+                },
+                "_classes": "",
+                "_left": 69,
+                "_top": 34
+      },
+            {
+                "title": "Classical-theater isle stage",
+                "body": "<p>The&nbsp;<a href=\"https://en.wikipedia.org/wiki/Stage_(theatre)\" title=\"Stage (theatre)\">stage</a>, sited on an isle, was modeled after ancient&nbsp;<a href=\"https://en.wikipedia.org/wiki/Herculaneum\" title=\"Herculaneum\">Herculaneum</a>&nbsp;and features decorations imitating ruins in the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Forum_Romanum\" title=\"Forum Romanum\">Roman Forum</a>.Performances are still staged on the isle. The amphitheater and its stage provide a perfect setting on a summer evening, despite occasional noise from the&nbsp;<a href=\"https://en.wikipedia.org/wiki/Swan\" title=\"Swan\">swans</a>,&nbsp;<a href=\"https://en.wikipedia.org/wiki/Duck\" title=\"Duck\">ducks</a>, and especially the eerily hooting&nbsp;<a href=\"https://en.wikipedia.org/wiki/Peacock\" title=\"Peacock\">peacocks</a>.</p>",
+                "strapline": "Classical-theater",
+                "_graphic": {
+                    "src": "course/en/assets/24acc4e42f7131bb57565335d6fe5f3dd3f6d71d.jpg",
+                    "alt": "",
+                    "attribution": "",
+                    "title": "",
+                    "_classes": ""
+                },
+                "_classes": "",
+                "_left": 73,
+                "_top": 58
+      }
+    ]
+  },
+    {
+        "_id": "5ad4832698144e6426a38792",
+        "_layout": "full",
+        "_type": "component",
+        "_parentId": "5ad84acc1ececff8195ccef5",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "body": "",
+        "displayTitle": "",
+        "title": "Video introduction",
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_component": "youtube",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "instruction": "Play the video below to continue",
+        "_setCompletionOn": "play",
+        "_media": {
+            "_source": "//www.youtube.com/embed/Ko_NiimGUoY",
+            "_aspectRatio": "1.778",
+            "_autoplay": false,
+            "_showRelated": false,
+            "_loop": false,
+            "_modestBranding": false,
+            "_playbackQuality": null,
+            "_showAnnotations": false,
+            "_progressColor": "white"
+        }
+  },
+    {
+        "_id": "5ad4aaf698144e6426a3879b",
+        "_layout": "full",
+        "_type": "component",
+        "_parentId": "5ad4a9ca98144e6426a38795",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "body": "",
+        "displayTitle": "",
+        "title": "History",
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_component": "narrative",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "instruction": "",
+        "mobileInstruction": "",
+        "_hasNavigationInTextArea": false,
+        "_setCompletionOn": "allItems",
+        "_items": [
+            {
+                "title": "Creation",
+                "body": "<p>Łazienki Park was designed in the 17th century by Tylman van Gameren, in the baroque style, for military commander Stanisław Herakliusz Lubomirski. It took the name Łazienki (&quot;Baths&quot;) from a bathing pavilion that was located nearby.</p>",
+                "_graphic": {
+                    "src": "course/en/assets/af777112abf50a05c583a2878701175cab5ad06a.png",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Creation"
+      },
+            {
+                "title": "Early years",
+                "body": "<p>In the mid-16th century, it became part of the estates of Poland&rsquo;s Italian-born Queen Bona Sforza, who built a wooden manor house with an Italian garden on this site. Later, the wooden manor house of Queen Anna Jagiellon stood on this spot, immortalized in 1578 by the performance of the first Polish play, &ldquo;Dismissal of the Greek Envoys&rdquo; by Jan Kochanowski. To the south, King Sigismund III Vasa had a four-sided stone castle with corner towers erected in 1624.</p>",
+                "_graphic": {
+                    "src": "course/en/assets/a68b66bc6cb5a7728a06d19d70b159f34c359b95.png",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Early years"
+      },
+            {
+                "title": "18th century",
+                "body": "<p>The picturesque and charming garden scheme owes its emergence as its present shape and appearance mainly to the last ruler of the Polish-Lithuanian Commonwealth, King Stanisław August Poniatowski (Stanisław II Augustus).</p><p>The Palace on the Isle was the scene of the famous &ldquo;Thursday dinners&rdquo;, to which the king would invite scholars, writers and poets. Łazienki at that time was an important cultural centre that flourished thanks to the support of Stanisław Augustus, a patron of the fine arts and propagator of science and learning. As a palace and garden complex, Łazienki reflected the classicist style widespread in Europe during the latter half of the 18th century. But it stood for its picturesque nature and variety, hence that classicism (also found in the interiors of Ujazd&oacute;w Castle designed by the King) has come to be known as the style of Stanisław Augustus.</p>",
+                "_graphic": {
+                    "src": "course/en/assets/a723c74b5ab72ef1fee7020755b054c7a3b33eba.png",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "18th century"
+      },
+            {
+                "title": "Modern times",
+                "body": "<p>Following the Second World War, an arduous reconstruction project of the Łazienki royal complex, which was to last nearly two decades, got under way. The first seven ground floor chambers of the palace was opened to the public in 1960 and in 1965 the entire first floor. Fortunately the White House, Myślewicki Palace and the theatre in the old orangery were spared from any severe destruction during the war. Nevertheless, they required thorough restoration, since they did sustain damage. At present they are completely renovated and open to visitors. Also restored are the Amphitheatre, Waterworks and the Cadets&rsquo; Hall which recently became the home of the <a href=\"https://en.wikipedia.org/wiki/Ignacy_Jan_Paderewski\" title=\"Ignacy Jan Paderewski\">Ignacy Jan Paderewski</a> Museum. This historic palace and garden complex, now situated in the city centre, performs various cultural functions and is regularly visited by a great many domestic and foreign excursions as well as Varsovians. Its constant care and maintenance under the watchful eye of conservators is, however, extremely costly.</p>",
+                "_graphic": {
+                    "src": "course/en/assets/M1_sc02_06.png",
+                    "alt": "",
+                    "attribution": ""
+                },
+                "strapline": "Modern times"
+      }
+    ]
+  },
+    {
+        "_id": "5ad84b001ececff8195ccef6",
+        "_layout": "full",
+        "_type": "component",
+        "_parentId": "5ad9936068cdf2f00943b1a4",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "body": "",
+        "displayTitle": "Component title",
+        "title": "Component title",
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_component": "blank",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+  },
+    {
+        "_id": "5addd2e3d39594b01d412835",
+        "_layout": "full",
+        "_type": "component",
+        "_parentId": "5ad4774e98144e6426a3878f",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "body": "",
+        "displayTitle": "",
+        "title": "Background scroll",
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_component": "backgroundScroll",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        },
+        "instruction": "",
+        "_items": [
+            {
+                "title": "",
+                "body": "<p>The Royal Łazienki was King Stanisław August&rsquo;s summer residence.</p>",
+                "image": "course/en/assets/2b7d2de8115e013e8e1192de084cb64086ab3fff.png"
+      },
+            {
+                "title": "",
+                "body": "<p>In the Royal Łazienki gardens, one can stroll on paths and alleys surrounded by trees, shrubs, and flowers.</p>",
+                "image": "course/en/assets/551f032b99eb485ac2a69ca9aa7d26ec439ec4b7.png"
+      },
+            {
+                "title": "",
+                "body": "<p>The visitors to the Royal Łazienki may also experience high European culture with numerous cultural and educational events on offer.&nbsp;</p>",
+                "image": "course/en/assets/0cb43dfaae57c155769080ca8eb2d0bf8558b5b5.png"
+      },
+            {
+                "title": "",
+                "body": "<p>Here, one can not only rest while watching nature but also deepen one&rsquo;s knowledge of the ideas of the Enlightenment by visiting historical monuments.</p>",
+                "image": "course/en/assets/0782667d6e7f7bd2d003b738813748676c16188b.png"
+      }
+    ]
+  },
+    {
+        "_id": "5ae6d9c121becf0817611743",
+        "_layout": "full",
+        "_type": "component",
+        "_parentId": "5acc8ed176f05b081730cb7d",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "body": "",
+        "displayTitle": "",
+        "title": "Events",
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_component": "flipcard",
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        },
+        "instruction": "Click on the squares to discover more details",
+        "_flipType": "singleFlip",
+        "_flipTime": 400,
+        "_items": [
+            {
+                "frontImage": {
+                    "alt": "Night of Museums",
+                    "src": "course/en/assets/fba8d160d71a0ccbaa5fe207fb9e2276fd38c879.png"
+                },
+                "backTitle": "Night of Museums",
+                "backBody": "<p>Over two hundred institutions participate in the event, and the visitors total around 200,000 over the course of the night.</p>"
+      },
+            {
+                "frontImage": {
+                    "alt": "Jazz Sessions",
+                    "src": "course/en/assets/5af0b0d160c54622ba982f35a22e044720133507.png"
+                },
+                "backTitle": "Jazz Sessions",
+                "backBody": "<p>The concert&rsquo;s programme features music pieces by Polish jazz artist Przemysław Strączek, which were played in Singapore in the spring of 2015.</p>"
+      },
+            {
+                "frontImage": {
+                    "alt": "The Royal Theatre",
+                    "src": "course/en/assets/e83887ae7323c845e4b5cf23eb4685f51106f882.png"
+                },
+                "backTitle": "The Royal Theatre",
+                "backBody": "<p>This is one of the few surviving authentic 18th-century court theatres in Europe, and the only example of its kind in Poland.&nbsp;</p>"
+      },
+            {
+                "frontImage": {
+                    "alt": "Historical reenactment",
+                    "src": "course/en/assets/e13fdcdc781c008180842d5624446b9fc7d6ab8e.png"
+                },
+                "backTitle": "Historical reenactment",
+                "backBody": "<p>The site is a good place for history oriented events that are carried out often.</p>"
+      },
+            {
+                "frontImage": {
+                    "alt": "International meetings",
+                    "src": "course/en/assets/1a69c55609e7af9f96f0930dca2d31e6f1105985.png"
+                },
+                "backTitle": "International meetings",
+                "backBody": "<p>The site is used for various diplomatic events taking place in Polish capital.</p>"
+      },
+            {
+                "frontImage": {
+                    "alt": "National events",
+                    "src": "course/en/assets/176a8738466138d9a434e30d882a08051a18b3e5.png"
+                },
+                "backTitle": "National events",
+                "backBody": "<p>Celebrations of national holidays are also taking place in there.</p>"
+      }
+    ]
+  },
+    {
+        "_id": "5ae97d7721becf0817611751",
+        "_layout": "full",
+        "_type": "component",
+        "_parentId": "5ae1b9d25abaf27828a37458",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "body": "",
+        "displayTitle": "",
+        "title": "Component title",
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "_classes": "",
+        "_component": "expose",
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        },
+        "instruction": "",
+        "_columns": null,
+        "_animationType": "slideDown",
+        "_items": [
+            {
+                "front": "Congratulations!",
+                "back": {
+                    "title": "",
+                    "body": "<p style=\"text-align:center\"><b>Congratulations for finishing the course!</b></p><p style=\"text-align:center\">From Barcelona E-Learning Team</p><p><u>Barcelona</u></p><p>Passeig de Gr&agrave;cia, 11, Esc B, 5-2<br />08007 Barcelona (Spain)&nbsp;</p><p><u>Warsaw</u></p><p>ulica Prosta 70&nbsp;<br />Warszawa, 00-838 (Poland)</p>",
+                    "_graphic": {
+                        "alt": "",
+                        "src": ""
+                    }
+                }
+      }
+    ]
+  },
+    {
+        "_id": "6a1",
+        "_parentId": "6a",
+        "_type": "component",
+        "_component": "gmcq",
+        "_classes": "",
+        "_layout": "full",
+        "_attempts": 1,
+        "_questionWeight": 1,
+        "_canShowModelAnswer": true,
+        "_shouldDisplayAttempts": false,
+        "_isRandom": true,
+        "_selectable": 1,
+        "title": "Make a guess",
+        "displayTitle": "",
+        "body": "Can you guess at this point which of these animals is representative for Royal Łazienki Park?",
+        "instruction": "Choose a bird below.",
+        "_columns": 3,
+        "_items": [
+            {
+                "text": "Eagle",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "large": "course/en/images/eagle2.png",
+                    "small": "course/en/images/eagle2.png",
+                    "alt": "Eagle."
+                }
+			},
+            {
+                "text": "Peacock",
+                "_shouldBeSelected": true,
+                "_graphic": {
+                    "large": "course/en/images/peacock2.png",
+                    "small": "course/en/images/peacock2.png",
+                    "alt": "Peacock."
+                }
+			},
+            {
+                "text": "Stork",
+                "_shouldBeSelected": false,
+                "_graphic": {
+                    "large": "course/en/images/stork2.png",
+                    "small": "course/en/images/stork2.png",
+                    "alt": "Stork."
+                }
+			}
+		],
+        "_feedback": {
+            "title": "Make a guess",
+            "correct": "<b>That's right!</b><br><br>Royal park is home to peacocks that roam freely around the area during summertime.",
+            "_incorrect": {
+                "final": "<b>Bad guess!</b><br><br> Royal Łazienki is known for being home to numerous peacocks living in there."
+            }
+        },
+        "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+  },
+    {
+        "_id": "6a2",
+        "_parentId": "6c",
+        "_type": "component",
+        "_component": "stacklist",
+        "_classes": "",
+        "_layout": "full",
+        "title": "Trivia",
+        "displayTitle": "",
+        "body": "",
+        
+        "_button": {
+            "startText": "We have some more trivia that might be useful to visitors!",
+            "continueText": "Give me trivia!"
+        },
+        "_items": [
+            {
+                "body": "There is an Old Orangery building in there with sculpture gallery.",
+                "next": "What's more?"
+        },
+            {
+                "body": "There are also sport trainings and yoga classes taking place in the park.",
+                "next": "Best day to plan a visit?"
+        },
+            {
+                "body": "Each Thursday is free of charge for all museum tours.",
+                "next": "How to plan a visit?"
+        },
+            {
+                "body": "Check for recent events and exhibitions on the homepage",
+                "next": "Show me the link!"
+        },
+            {
+                "body": "Here it is! <a href='https://www.lazienki-krolewskie.pl/en'>https://www.lazienki-krolewskie.pl/en</a> ",
+                "next": "Next step please!"
+        }
+    ],
+     "_pageLevelProgress": {
+            "_isEnabled": true
+        }   
+        
+},
+     {
+        "_id": "6a3",
+        "_parentId": "6b",
+         "_type":"component",
+    "_component":"reveal",
+    "_classes":"",
+    "_layout":"full",
+    "_direction":"left",        
+    "title": "Winter season",
+    "displayTitle": "",
+    "body": "",
+    "first": {
+        "src": "course/en/images/autumn.jpg",
+        "alt": "First item",
+        "title": "First item",
+        "body": "Lazienki is even more beatiful during autumn as the park is becoming filled with colorful leaves covering the branches and paths.",
+        "_maxCharacters": 10,
+        "moreText": "More"
+    },
+    "second": {
+        "src": "course/en/images/winter.jpg",
+        "alt": "Second item",
+        "title": "Second item",
+        "body": "Winter season is known for colorful light decorations that create great atmosphere for evening strolls around the place.",
+        "_maxCharacters": 50,
+        "moreText": "More"
+    },
+    "control": {
+        "showText": "Show",
+        "hideText": "Hide"
+    },
+         "_pageLevelProgress": {
+            "_isEnabled": true
+        }
+}          
+]

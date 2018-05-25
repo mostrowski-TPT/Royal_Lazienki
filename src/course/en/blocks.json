@@ -1,0 +1,432 @@
+[
+    {
+        "_id": "5ad9936068cdf2f00943b1a4",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 1,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "",
+        "title": "blank",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": false,
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id": "5ad84acc1ececff8195ccef5",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 2,
+        "_classes": "",
+        "body": "<p>This course will take you on a short tour through the most noteworthy places and happenings&nbsp;in Warsaw Łazienki Park.</p><p>You&#39;ll be introduced to:</p><ul><li>History of the Royal Łazienki</li><li>Map of attractions</li><li>List of events organized at this place</li></ul>",
+        "displayTitle": "Introduction",
+        "title": "vid",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": true,
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "5ad4774e98144e6426a3878f",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": true,
+        "instruction": "",
+        "_trackingId": 3,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "",
+        "title": "scroll",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": false,
+                "_isEnabled": false
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": false
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": false,
+            "_isEnabled": false
+        }
+    },
+    {
+        "_id": "5ad4a9ca98144e6426a38795",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 4,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "History",
+        "title": "History",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": true,
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "5acc860876f05b081730cb73",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 5,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "Places",
+        "title": "Places",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": true,
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "5acc8ed176f05b081730cb7d",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 6,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "Events",
+        "title": "Events",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": true,
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "6a",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 7,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "Make a guess",
+        "title": "Make a guess",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": true,
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "6b",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 8,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "Winter season",
+        "title": "Winter season",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": true,
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "6c",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 9,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "More trivia",
+        "title": "More trivia",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": true,
+            "_isEnabled": true
+        }
+    },
+    {
+        "_id": "5ae1b9d25abaf27828a37458",
+        "_type": "block",
+        "_parentId": "5acb50d195fd11bc2238fc36",
+        "_onScreen": {
+            "_isEnabled": false,
+            "_classes": "",
+            "_percentInviewVertical": 50
+        },
+        "_isVisible": true,
+        "_isHidden": false,
+        "_isAvailable": true,
+        "_isOptional": false,
+        "instruction": "",
+        "_trackingId": 10,
+        "_classes": "",
+        "body": "",
+        "displayTitle": "",
+        "title": "Congratulations!",
+        "_trickle": {
+            "_stepLocking": {
+                "_isLockedOnRevisit": false,
+                "_isCompletionRequired": true,
+                "_isEnabled": true
+            },
+            "_button": {
+                "_component": "trickle-button",
+                "finalText": "Finish",
+                "startText": "Begin",
+                "text": "Continue",
+                "_className": "",
+                "_autoHide": true,
+                "_isFullWidth": true,
+                "_styleAfterClick": "hidden",
+                "_styleBeforeCompletion": "hidden",
+                "_isEnabled": true
+            },
+            "_scrollTo": "@block +1",
+            "_scrollDuration": 500,
+            "_autoScroll": false,
+            "_isEnabled": false
+        }
+    }
+]

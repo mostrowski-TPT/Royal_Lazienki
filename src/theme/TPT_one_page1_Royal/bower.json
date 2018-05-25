@@ -1,0 +1,23 @@
+{
+  "name": "TPT_one_page1_Royal",
+  "version": "0.1.4",
+  "framework": ">=2.1",
+  "homepage": "githubhere",
+  "issues": "",
+  "displayName": "TPT_one_page1_Royal",
+  "theme": "TPT_one_page1",
+  "description": "TPT theme for single page courses",
+  "main": "js/TPT_one_page1_Royal.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-theme"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

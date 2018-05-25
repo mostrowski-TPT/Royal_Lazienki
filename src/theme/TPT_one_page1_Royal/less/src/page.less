@@ -1,0 +1,101 @@
+// Page styling
+// ============
+
+.page {
+    background-color: @background-color;
+overflow: hidden;
+    .page-header {
+//        background-color: @background-color-inverted;
+ background-image: url(assets/bacground.jpg);
+        background-size:cover;
+        background-repeat:repeat-x;
+        background-position: center;
+        @media all and (min-width: (@device-width-large)) {
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+    }
+    
+
+
+    .page-header-inner {
+        
+        padding: @page-padding-top 0 @page-padding-bottom;
+
+        @media all and (max-width: (@device-width-large + 20px)) {
+            padding: @page-padding-top 20px @page-padding-bottom;
+        }
+
+        @media all and (max-width: (@device-width-small + 20px)) {
+            padding: @page-padding-top 10px @page-padding-bottom;
+        }
+    }
+
+    .page-header-content {
+        max-width: @device-width-large;
+        margin: auto;
+        color: @foreground-color-inverted;
+    }
+
+    .page-header-content-inner {
+        
+        background-color: fade(@lazienki_black, 90%);
+       border: 30px solid fade(@lazienki_black, 90%);
+        -webkit-background-clip: padding-box; /* for Safari */
+    background-clip: padding-box; /* for IE9+, Firefox 4+, Opera, Chrome */
+        text-align: center;
+        .page-logo{
+            filter:brightness(100%);
+            margin-left: 50%;
+            transform: translateX(-50%);
+            margin-top: 0px;
+            margin-bottom: 20px;
+            background-image:url(assets/TP_SS_white.png);
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            height: 40px;
+            vertical-align: middle;
+        }
+    }
+
+    .page-title {
+        margin-bottom: @page-title-margin-bottom;
+        .page-title-inner{
+            font-family: @page-title-font !important;
+        }
+    }
+
+    .page-body {
+        margin-bottom: @page-body-margin-bottom;
+        
+    }
+
+    .page-instruction {
+        margin-bottom: @page-instruction-margin-bottom;
+        .instruction-text;
+    }
+}
+//changed bgcolor
+.article-container {
+ background-color: @lazienki_black;
+}
+
+ .page-footer {
+        padding: 75px 7% 100px 7%;
+        color: @secondary-color-inverted;
+        background-color: @secondary-color;
+        img {
+            padding: 0px 8px;
+            height: 20px;
+            &.xl {
+                height: 15px;
+                padding-top: 6px;
+            }
+        }
+        .left { float: left; }
+        .right { float: right; }
+    }
+
+
+

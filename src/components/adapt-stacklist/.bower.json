@@ -1,0 +1,29 @@
+{
+  "name": "adapt-stacklist",
+  "description": "Items fly in one at a time, alternating from left to right, when the learner clicks a button. Demo available.",
+  "framework": ">=2.0.0",
+  "displayName": "Stack List",
+  "component": "stacklist",
+  "main": "/js/adapt-stacklist.js",
+  "homepage": "https://github.com/danielstorey/adapt-stacklist",
+  "repository": "git://github.com/danielstorey/adapt-stacklist.git",
+  "issues": "https://github.com/danielstorey/adapt-stacklist/issues",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "authors": [
+    "Dan Storey <danielstorey@gmail.com>"
+  ],
+  "_release": "45dd4965fc",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "45dd4965fc305c3457dfafa6bfbda73e010ace22"
+  },
+  "_source": "git://github.com/danielstorey/adapt-stacklist.git",
+  "_target": "*",
+  "_originalSource": "adapt-stacklist",
+  "_direct": true
+}

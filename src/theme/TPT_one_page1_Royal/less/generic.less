@@ -1,0 +1,81 @@
+// THIS IS WHERE WE CAN DECLARE ANY OTHER VARIABLES (ie. device-width, border-width etc.)
+// Device widths
+// =============
+@device-width-small: unit(@adapt-device-small, px);
+@device-width-medium: unit(@adapt-device-medium, px);
+@device-width-large: unit(@adapt-device-large, px);
+
+// Max-widths
+// ==========
+@max-width: 1400px;
+@ie8-max-width: 1024px;
+
+// Borders and Outlines
+// ====================
+@focus-outline: 3px solid orange; //focus outline is displayed when accessibility is enabled
+@button-border: 0px solid @button-border-color;
+
+@item-border: 3px solid @item-border-color;
+
+
+//custom components styling
+.flipper-inner .flipper-item .flipper-item-body {
+    background-color: white;
+}
+
+.flipper-inner .flipper-item {
+    background-color: white;
+}
+
+.flipper-inner .flipper-item .flipper-item-title {
+    background-color: @secondary-color !important;
+    color: white;
+}
+
+.bg-scroll-body {
+    color: white;
+    background-color: fade(@lazienki_black, 90%);
+}
+
+.expose-item-inner .expose-item-cover .front {
+    background-color: @lazienki_black;
+    color: white;
+}
+
+.expose-item-content {
+    background-color: white;
+    color: black;
+}
+
+.expose-item-inner .expose-item-cover {
+    color: white;
+}
+
+.expose-item-body {
+    
+    cursor: default !important;
+    &&:hover {
+        cursor: default !important;
+    }
+}
+
+.expose-item-content {
+    border-bottom: 1px solid @lazienki_border;
+    cursor: default !important;
+    &&:hover {
+        cursor: default !important;
+    }
+}
+
+*{
+    outline: 0px transparent;
+}
+
+.reveal-widget-item-text-body {
+    @media only screen and (max-width: 400px){
+        font-size: 0.7em;
+    }
+    
+    
+    
+}

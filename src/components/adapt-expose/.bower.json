@@ -1,0 +1,29 @@
+{
+  "name": "adapt-expose",
+  "description": "Content is hidden behind covers. Click the cover and expose the content below. Range of animations. Demo available.",
+  "framework": "^2.0.0",
+  "displayName": "Expose",
+  "component": "expose",
+  "main": "/js/adapt-expose.js",
+  "homepage": "https://github.com/danielstorey/adapt-expose",
+  "repository": "git://github.com/danielstorey/adapt-expose.git",
+  "issues": "https://github.com/danielstorey/adapt-expose/issues",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3",
+  "authors": [
+    "Dan Storey <danielstorey@gmail.com>"
+  ],
+  "_release": "badc6f0911",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "badc6f0911229493abdcb8262fce3b95e424e707"
+  },
+  "_source": "git://github.com/danielstorey/adapt-expose.git",
+  "_target": "*",
+  "_originalSource": "adapt-expose",
+  "_direct": true
+}
