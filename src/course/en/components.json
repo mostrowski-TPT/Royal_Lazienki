@@ -435,7 +435,7 @@
             "title": "Make a guess",
             "correct": "<b>That's right!</b><br><br>Royal park is home to peacocks that roam freely around the area during summertime.",
             "_incorrect": {
-                "final": "<b>Bad guess!</b><br><br> Royal Łazienki is known for being home to numerous peacocks living in there."
+                "final": "<b>Bad guess!</b><br><br>Royal Łazienki is known for being home to numerous peacocks living in there."
             }
         },
         "_pageLevelProgress": {
